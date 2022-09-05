@@ -12,11 +12,11 @@ This repo is for Assignments that are done in Jypyter Notebook
 
 ### Class 10
 
--  **[Assignment 1 (Reverse List and String)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10_Assignment1.ipynb)**
+-  **[Assignment 1 (Reverse List and String)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10/Class10_Assignment1.ipynb)**
 	- Print a reverse of a given list and a string
 
--  **[Assignment 2 (Matrix Multiplication)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10_Assignment2.ipynb)**
+-  **[Assignment 2 (Matrix Multiplication)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10/Class10_Assignment2.ipynb)**
 	- Take two list in form of Matrices and multiply them
 
--  **[Assignment 3 (Exception Handling)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10_Assignment3.ipynb)**
+-  **[Assignment 3 (Exception Handling)](https://github.com/archangel4031/JupyterNotebooks/blob/master/Class10/Class10_Assignment3.ipynb)**
 	- Ask user to enter a number. Handle Exception if they enter something else
